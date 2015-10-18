@@ -1,2 +1,2 @@
 # sph-test
-test of github
+test of github to check functionality. 
